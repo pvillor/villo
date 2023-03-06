@@ -23,3 +23,9 @@
     <img align="center" alt="PV-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img align="center" alt="PV-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   </div>
+
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/paulovictorguerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank"></a>
+  </div>
