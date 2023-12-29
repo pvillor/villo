@@ -9,7 +9,7 @@
 ## My stats
 <div>
   <a href="https://github.com/pvillor">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvillor&layout-compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvillor&layout-compact&langs_count=6&theme=dark"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=pvillor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
