@@ -9,8 +9,8 @@
 ## My stats
 <div>
   <a href="https://github.com/pvillor">
-  <img height="200em" width="60%" src="https://github-readme-stats.vercel.app/api?username=pvillor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvillor&layout-compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvillor&layout-compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=pvillor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Tech Stacks
