@@ -25,6 +25,7 @@
       <img align="center" alt="PV-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="PV-next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
     </div>
+    <br>
     <div style="display: flex">
       Back-end: 
       <img align="center" alt="PV-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -39,6 +40,7 @@
       <img align="center" alt="PV-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt="PV-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
     </div>
+    <br>
     <div style="display: flex">
       Database: 
       <img align="center" alt="PV-postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
@@ -46,6 +48,7 @@
       <img align="center" alt="PV-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="PV-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
     </div>
+    <br>
     <div style="display: flex">
       Tools: 
       <img align="center" alt="PV-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
