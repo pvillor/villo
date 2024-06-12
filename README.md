@@ -30,7 +30,7 @@
       Back-end: 
       <img align="center" alt="PV-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       <img align="center" alt="PV-node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-      <img align="center" alt="PV-express" height="40" width="40" background-color="gray"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+      <img align="center" alt="PV-node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
       <img align="center" alt="PV-nest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
       <img align="center" alt="PV-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" alt="PV-django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
