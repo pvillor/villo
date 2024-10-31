@@ -14,7 +14,7 @@
 
 ## Tech Stacks
   <div style="display: inline_block"><br>
-    <div style="display: flex; gap: '2px';">
+    <div style="display: flex; gap: 2px;">
       Front-end: 
       <img align="center" alt="PV-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
       <img align="center" alt="PV-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -22,7 +22,7 @@
       <img align="center" alt="PV-next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
     </div>
     <br>
-    <div style="display: flex; gap: '2px';">
+    <div style="display: flex; gap: 2px">
       Back-end: 
       <img align="center" alt="PV-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       <img align="center" alt="PV-node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -31,13 +31,13 @@
       <img align="center" alt="PV-prisma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
     </div>
     <br>
-    <div style="display: flex; gap: '2px';">
+    <div style="display: flex; gap: 2px">
       Database: 
       <img align="center" alt="PV-postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
       <img align="center" alt="PV-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
     </div>
     <br>
-    <div style="display: flex; gap: '2px';">
+    <div style="display: flex; gap: 2px">
       Tools: 
       <img align="center" alt="PV-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img align="center" alt="PV-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
